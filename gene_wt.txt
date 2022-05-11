@@ -1,0 +1,11 @@
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_wt/gene_0_wt.txt 16025 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_wt/gene_1_wt.txt 235 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_wt/gene_2_wt.txt 235 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_wt/gene_3_wt.txt 3031 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_wt/gene_4_wt.txt 6 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_wt/gene_5_wt.txt 210 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_wt/gene_6_wt.txt 2161 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_wt/gene_7_wt.txt 2106 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_wt/gene_8_wt.txt 92 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_wt/gene_9_wt.txt 8 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_wt/gene_10_wt.txt 5 11 

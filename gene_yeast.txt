@@ -1,0 +1,11 @@
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_yeast/gene0.txt 16025 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_yeast/gene1.txt 683 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_yeast/gene2.txt 683 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_yeast/gene3.txt 3031 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_yeast/gene4.txt 453 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_yeast/gene5.txt 1701 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_yeast/gene6.txt 2161 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_yeast/gene7.txt 2106 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_yeast/gene8.txt 1584 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_yeast/gene9.txt 806 11 
+/home/gpsp95/Documents/Analises_yeast/Transição_Estados_Analises/genes_yeast/gene10.txt 504 11 
